@@ -5,4 +5,5 @@
 ## SAP TICKETS STATUS TILL JULY 2024
 ![TICKETS STATUS](https://github.com/user-attachments/assets/f142aaad-8b37-4844-b7e4-2982011619f4)
 ## User Acceptence Testing (UAT) Analysis
-![UAT Analysis](https://github.com/user-attachments/assets/fec7a2c6-f35d-4efd-8d7a-7b441003bacf)
+![UAT Analysis](https://github.com/user-attachments/assets/9cf92aa1-471a-4f84-93b4-71478d7b81ad)
+
