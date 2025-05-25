@@ -6,4 +6,6 @@
 ![TICKETS STATUS](https://github.com/user-attachments/assets/f142aaad-8b37-4844-b7e4-2982011619f4)
 ## User Acceptence Testing (UAT) Analysis
 ![UAT Analysis](https://github.com/user-attachments/assets/9cf92aa1-471a-4f84-93b4-71478d7b81ad)
+## Sales Analysis
+![Sales Analysis ](https://github.com/user-attachments/assets/1def73bf-39b2-4305-b025-cafa143bef42)
 
