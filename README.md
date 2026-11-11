@@ -8,5 +8,5 @@
 ![UAT Analysis](https://github.com/user-attachments/assets/9cf92aa1-471a-4f84-93b4-71478d7b81ad)
 ## Sales Analysis
 ![Sales Analysis ](https://github.com/user-attachments/assets/1def73bf-39b2-4305-b025-cafa143bef42)
-## ICT Ticket Status
-![ICT Ticket Status](https://github.com/SaimKhan20/Dashboards/blob/main/ICT%20Tickets%20Tracking%20Dashboard.png)
+## ICT Incidents Status
+![ICT Incidents Status](https://github.com/SaimKhan20/Dashboards/blob/main/SAP%20Incidents%20Status%20Dashboard.png)
